@@ -1,0 +1,29 @@
+name: cantwait28
+description: A Flutter project that counts days down to exciting dates in the future.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  cloud_firestore: ^3.1.6
+
+  firebase_core: ^1.11.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  flutterfire_ui: ^0.4.1+2
+  intl: ^0.17.0
+
+dev_dependencies:
+
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116473572353",
+    "project_id": "upcoming-events-300",
+    "storage_bucket": "upcoming-events-300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116473572353:android:dd9ec3c5ad6a4bae152400",
+        "android_client_info": {
+          "package_name": "com.igorurbaniak.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116473572353-8jenekp4a75551ovgd8cspvqtlgltson.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftJoUVGxoGNpcSV6Xgteq0VN35QLAwTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116473572353-8jenekp4a75551ovgd8cspvqtlgltson.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
